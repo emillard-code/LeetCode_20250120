@@ -1,6 +1,5 @@
 package com.project;
 
-import com.project.attempt.LeetCodeAttempt;
 import com.project.solution.LeetCodeSolution;
 
 import org.junit.jupiter.api.*;
